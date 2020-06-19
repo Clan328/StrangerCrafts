@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SSS",
+		"SBS",
+		"SSS"
+	],
+	"key": {
+		"S": {
+			"item": "strangercrafts:nail"
+		},
+		"B": {
+			"item": "strangercrafts:bat"
+		}
+	},
+	"result": {
+		"item": "strangercrafts:spiked_bat"
+	}
+}

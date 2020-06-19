@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SWS",
+        "EME",
+        "SWS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:sugar"
+        },
+        "W": {
+            "item": "minecraft:wheat"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "M": {
+            "item": "minecraft:milk_bucket"
+        }
+    },
+    "result": {
+    	"item": "strangercrafts:waffle",
+		"count": 3
+    }
+}

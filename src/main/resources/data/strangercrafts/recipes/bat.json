@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SPS",
+		"SPS",
+		" S "
+	],
+	"key": {
+		"S": {
+			"item": "minecraft:stick"
+		},
+		"P": {
+			"tag": "minecraft:planks"
+		}
+	},
+	"result": {
+		"item": "strangercrafts:bat"
+	}
+}

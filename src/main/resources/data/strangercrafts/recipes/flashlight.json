@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"IRI",
+		"ISI",
+		" I "
+	],
+	"key": {
+		"I": {
+			"item": "minecraft:iron_ingot"
+		},
+		"R": {
+			"item": "minecraft:redstone_lamp"
+		},
+		"S": {
+			"item": "minecraft:stone_button"
+		}
+	},
+	"result": {
+		"item": "strangercrafts:flashlight"
+	}
+}
